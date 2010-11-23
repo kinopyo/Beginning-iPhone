@@ -1,0 +1,445 @@
+TAppSettings
+v7
+r0
+t312177495.178035
+cCheck dependencies
+cProcessInfoPlistFile "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/Debug-iphonesimulator/AppSettings.app/Info.plist" AppSettings-Info.plist
+cCompileXIB "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/FlipsideView.xib"
+cCompileXIB "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/MainView.xib"
+cCompileXIB "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/MainWindow.xib"
+cCpResource build/Debug-iphonesimulator/AppSettings.app/icon.png icon.png
+cCpResource build/Debug-iphonesimulator/AppSettings.app/Settings.bundle Settings.bundle
+cCpResource build/Debug-iphonesimulator/AppSettings.app/rabbit.png rabbit.png
+cCpResource build/Debug-iphonesimulator/AppSettings.app/turtle.png turtle.png
+cProcessPCH /var/folders/C6/C65Tk4iAHkmWsJm5lMpc1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppSettings_Prefix-gggdxpbloepljtataweapmvalxxl/AppSettings_Prefix.pch.gch AppSettings_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AppSettings.build/Debug-iphonesimulator/AppSettings.build/Objects-normal/i386/main.o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AppSettings.build/Debug-iphonesimulator/AppSettings.build/Objects-normal/i386/AppSettingsAppDelegate.o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/Classes/AppSettingsAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AppSettings.build/Debug-iphonesimulator/AppSettings.build/Objects-normal/i386/FlipsideView.o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/Classes/FlipsideView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AppSettings.build/Debug-iphonesimulator/AppSettings.build/Objects-normal/i386/MainView.o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/Classes/MainView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AppSettings.build/Debug-iphonesimulator/AppSettings.build/Objects-normal/i386/MainViewController.o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/Classes/MainViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AppSettings.build/Debug-iphonesimulator/AppSettings.build/Objects-normal/i386/FlipsideViewController.o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/Classes/FlipsideViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/Debug-iphonesimulator/AppSettings.app/AppSettings" normal i386
+cGenerateDSYMFile "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/Debug-iphonesimulator/AppSettings.app.dSYM" "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/Debug-iphonesimulator/AppSettings.app/AppSettings"
+cTouch "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/Debug-iphonesimulator/AppSettings.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004C494D260000000000000110
+t1279872294
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BD1CD90000000000026F020
+t1272040848
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BD1FFC200000000002A96A0
+t1272053698
+s2791072
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BD1FF9E0000000000001355
+t1272053662
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BD20412000000000000098F
+t1272054802
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BD20471000000000222E640
+t1272054897
+s35841600
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/usr/include/Availability.h
+c000000004BD1CFC10000000000001A1A
+t1272041409
+s6682
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/AppSettings_Prefix.pch
+c000000004AD357900000000000000148
+t1255364496
+s328
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/Classes/AppSettingsAppDelegate.h
+c000000004AD3579000000000000001BC
+t1255364496
+s444
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/Classes/AppSettingsAppDelegate.m
+c000000004AD35790000000000000032B
+t1255364496
+s811
+i"AppSettingsAppDelegate.h"
+i"MainViewController.h"
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/Classes/FlipsideView.h
+c000000004AD3579000000000000000B1
+t1255364496
+s177
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/Classes/FlipsideView.m
+c000000004AD3579000000000000001B1
+t1255364496
+s433
+i"FlipsideView.h"
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/Classes/FlipsideViewController.h
+c000000004AD3579000000000000002C2
+t1255364496
+s706
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/Classes/FlipsideViewController.m
+c000000004AD357900000000000000756
+t1255364496
+s1878
+i"FlipsideViewController.h"
+i"MainViewController.h"
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/Classes/MainView.h
+c000000004AD3579000000000000000C1
+t1255364496
+s193
+i<UIKit/UIKit.h>
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/Classes/MainView.m
+c000000004AD3579000000000000001A5
+t1255364496
+s421
+i"MainView.h"
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/Classes/MainViewController.h
+c000000004AD3579000000000000006A1
+t1255364496
+s1697
+i"FlipsideViewController.h"
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/Classes/MainViewController.m
+c000000004AD357900000000000000C90
+t1255364496
+s3216
+i"MainViewController.h"
+i"MainView.h"
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/FlipsideView.xib
+c000000004AD357900000000000003A3A
+t1255364496
+s14906
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/MainView.xib
+c000000004AD3579000000000000084D4
+t1255364496
+s34004
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/MainWindow.xib
+c000000004AD357900000000000001DE7
+t1255364496
+s7655
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/Settings.bundle
+c000000004AD3578800000000000000EE
+t1255364488
+s238
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/AppSettings.build/Debug-iphonesimulator/AppSettings.build/Objects-normal/i386/AppSettings.LinkFileList
+c000000004CEB3BCA000000000000045E
+t1290484682
+s1118
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/AppSettings.build/Debug-iphonesimulator/AppSettings.build/Objects-normal/i386/AppSettingsAppDelegate.o
+t1290484684
+s45476
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/AppSettings.build/Debug-iphonesimulator/AppSettings.build/Objects-normal/i386/FlipsideView.o
+t1290484684
+s9684
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/AppSettings.build/Debug-iphonesimulator/AppSettings.build/Objects-normal/i386/FlipsideViewController.o
+t1290484685
+s42800
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/AppSettings.build/Debug-iphonesimulator/AppSettings.build/Objects-normal/i386/MainView.o
+t1290484684
+s9600
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/AppSettings.build/Debug-iphonesimulator/AppSettings.build/Objects-normal/i386/MainViewController.o
+t1290484685
+s56140
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/AppSettings.build/Debug-iphonesimulator/AppSettings.build/Objects-normal/i386/main.o
+t1290484684
+s6396
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/Debug-iphonesimulator/AppSettings.app
+t1290484685
+s408
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/Debug-iphonesimulator/AppSettings.app.dSYM
+t1290484685
+s102
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/Debug-iphonesimulator/AppSettings.app/AppSettings
+t1290484685
+s34708
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/Debug-iphonesimulator/AppSettings.app/FlipsideView.nib
+t1290484683
+s2292
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/Debug-iphonesimulator/AppSettings.app/Info.plist
+t1290484682
+s641
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/Debug-iphonesimulator/AppSettings.app/MainView.nib
+t1290484683
+s4398
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/Debug-iphonesimulator/AppSettings.app/MainWindow.nib
+t1290484683
+s975
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/Debug-iphonesimulator/AppSettings.app/PkgInfo
+t1290484682
+s8
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/Debug-iphonesimulator/AppSettings.app/Settings.bundle
+t1290484683
+s238
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/Debug-iphonesimulator/AppSettings.app/icon.png
+t1290484683
+s4656
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/Debug-iphonesimulator/AppSettings.app/rabbit.png
+t1290484683
+s3532
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/Debug-iphonesimulator/AppSettings.app/turtle.png
+t1290484683
+s3127
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/icon.png
+c000000004AD357900000000000001230
+t1255364496
+s4656
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/main.m
+c000000004AD357900000000000000161
+t1255364496
+s353
+i<UIKit/UIKit.h>
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/rabbit.png
+c000000004AD357900000000000000DCC
+t1255364496
+s3532
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/turtle.png
+c000000004AD357900000000000000C37
+t1255364496
+s3127
+
+N/var/folders/C6/C65Tk4iAHkmWsJm5lMpc1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppSettings_Prefix-gggdxpbloepljtataweapmvalxxl/AppSettings_Prefix.pch.gch
+t1290484684
+s13825936
+
+NAppSettings-Info.plist
+c000000004AD357900000000000000395
+t1255364496
+s917
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies312177495#312177495#0(0"0(0#1#0"8634331424#0"0#
+
+CCompileC build/AppSettings.build/Debug-iphonesimulator/AppSettings.build/Objects-normal/i386/AppSettingsAppDelegate.o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/Classes/AppSettingsAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s312177484.755014
+e312177484.848971
+r1
+xCompileC
+xbuild/AppSettings.build/Debug-iphonesimulator/AppSettings.build/Objects-normal/i386/AppSettingsAppDelegate.o
+x/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/Classes/AppSettingsAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@125"Compile /Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/Classes/AppSettingsAppDelegate.m312177484#312177484#0(0"0(0#0#117"/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/Classes/AppSettingsAppDelegate.m8607487936#2669"    cd "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/AppSettings.build/Debug-iphonesimulator/AppSettings.build/AppSettings-generated-files.hmap" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/AppSettings.build/Debug-iphonesimulator/AppSettings.build/AppSettings-own-target-headers.hmap" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/AppSettings.build/Debug-iphonesimulator/AppSettings.build/AppSettings-all-target-headers.hmap" -iquote "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/AppSettings.build/Debug-iphonesimulator/AppSettings.build/AppSettings-project-headers.hmap" "-F/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/Debug-iphonesimulator" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/Debug-iphonesimulator/include" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/AppSettings.build/Debug-iphonesimulator/AppSettings.build/DerivedSources/i386" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/AppSettings.build/Debug-iphonesimulator/AppSettings.build/DerivedSources" -include /var/folders/C6/C65Tk4iAHkmWsJm5lMpc1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppSettings_Prefix-gggdxpbloepljtataweapmvalxxl/AppSettings_Prefix.pch -c "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/Classes/AppSettingsAppDelegate.m" -o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/AppSettings.build/Debug-iphonesimulator/AppSettings.build/Objects-normal/i386/AppSettingsAppDelegate.o"0#
+
+CCompileC build/AppSettings.build/Debug-iphonesimulator/AppSettings.build/Objects-normal/i386/FlipsideView.o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/Classes/FlipsideView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s312177484.821237
+e312177484.898970
+r1
+xCompileC
+xbuild/AppSettings.build/Debug-iphonesimulator/AppSettings.build/Objects-normal/i386/FlipsideView.o
+x/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/Classes/FlipsideView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@115"Compile /Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/Classes/FlipsideView.m312177484#312177484#0(0"0(0#0#107"/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/Classes/FlipsideView.m8634347456#2649"    cd "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/AppSettings.build/Debug-iphonesimulator/AppSettings.build/AppSettings-generated-files.hmap" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/AppSettings.build/Debug-iphonesimulator/AppSettings.build/AppSettings-own-target-headers.hmap" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/AppSettings.build/Debug-iphonesimulator/AppSettings.build/AppSettings-all-target-headers.hmap" -iquote "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/AppSettings.build/Debug-iphonesimulator/AppSettings.build/AppSettings-project-headers.hmap" "-F/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/Debug-iphonesimulator" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/Debug-iphonesimulator/include" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/AppSettings.build/Debug-iphonesimulator/AppSettings.build/DerivedSources/i386" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/AppSettings.build/Debug-iphonesimulator/AppSettings.build/DerivedSources" -include /var/folders/C6/C65Tk4iAHkmWsJm5lMpc1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppSettings_Prefix-gggdxpbloepljtataweapmvalxxl/AppSettings_Prefix.pch -c "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/Classes/FlipsideView.m" -o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/AppSettings.build/Debug-iphonesimulator/AppSettings.build/Objects-normal/i386/FlipsideView.o"0#
+
+CCompileC build/AppSettings.build/Debug-iphonesimulator/AppSettings.build/Objects-normal/i386/FlipsideViewController.o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/Classes/FlipsideViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s312177484.936868
+e312177485.025456
+r1
+xCompileC
+xbuild/AppSettings.build/Debug-iphonesimulator/AppSettings.build/Objects-normal/i386/FlipsideViewController.o
+x/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/Classes/FlipsideViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@125"Compile /Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/Classes/FlipsideViewController.m312177484#312177485#0(0"0(0#0#117"/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/Classes/FlipsideViewController.m8606429344#2669"    cd "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/AppSettings.build/Debug-iphonesimulator/AppSettings.build/AppSettings-generated-files.hmap" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/AppSettings.build/Debug-iphonesimulator/AppSettings.build/AppSettings-own-target-headers.hmap" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/AppSettings.build/Debug-iphonesimulator/AppSettings.build/AppSettings-all-target-headers.hmap" -iquote "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/AppSettings.build/Debug-iphonesimulator/AppSettings.build/AppSettings-project-headers.hmap" "-F/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/Debug-iphonesimulator" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/Debug-iphonesimulator/include" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/AppSettings.build/Debug-iphonesimulator/AppSettings.build/DerivedSources/i386" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/AppSettings.build/Debug-iphonesimulator/AppSettings.build/DerivedSources" -include /var/folders/C6/C65Tk4iAHkmWsJm5lMpc1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppSettings_Prefix-gggdxpbloepljtataweapmvalxxl/AppSettings_Prefix.pch -c "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/Classes/FlipsideViewController.m" -o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/AppSettings.build/Debug-iphonesimulator/AppSettings.build/Objects-normal/i386/FlipsideViewController.o"0#
+
+CCompileC build/AppSettings.build/Debug-iphonesimulator/AppSettings.build/Objects-normal/i386/MainView.o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/Classes/MainView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s312177484.849074
+e312177484.936760
+r1
+xCompileC
+xbuild/AppSettings.build/Debug-iphonesimulator/AppSettings.build/Objects-normal/i386/MainView.o
+x/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/Classes/MainView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@111"Compile /Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/Classes/MainView.m312177484#312177484#0(0"0(0#0#103"/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/Classes/MainView.m8630772832#2641"    cd "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/AppSettings.build/Debug-iphonesimulator/AppSettings.build/AppSettings-generated-files.hmap" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/AppSettings.build/Debug-iphonesimulator/AppSettings.build/AppSettings-own-target-headers.hmap" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/AppSettings.build/Debug-iphonesimulator/AppSettings.build/AppSettings-all-target-headers.hmap" -iquote "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/AppSettings.build/Debug-iphonesimulator/AppSettings.build/AppSettings-project-headers.hmap" "-F/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/Debug-iphonesimulator" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/Debug-iphonesimulator/include" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/AppSettings.build/Debug-iphonesimulator/AppSettings.build/DerivedSources/i386" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/AppSettings.build/Debug-iphonesimulator/AppSettings.build/DerivedSources" -include /var/folders/C6/C65Tk4iAHkmWsJm5lMpc1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppSettings_Prefix-gggdxpbloepljtataweapmvalxxl/AppSettings_Prefix.pch -c "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/Classes/MainView.m" -o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/AppSettings.build/Debug-iphonesimulator/AppSettings.build/Objects-normal/i386/MainView.o"0#
+
+CCompileC build/AppSettings.build/Debug-iphonesimulator/AppSettings.build/Objects-normal/i386/MainViewController.o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/Classes/MainViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s312177484.899069
+e312177485.047090
+r1
+xCompileC
+xbuild/AppSettings.build/Debug-iphonesimulator/AppSettings.build/Objects-normal/i386/MainViewController.o
+x/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/Classes/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@121"Compile /Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/Classes/MainViewController.m312177484#312177485#0(0"0(0#0#113"/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/Classes/MainViewController.m8628526400#2661"    cd "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/AppSettings.build/Debug-iphonesimulator/AppSettings.build/AppSettings-generated-files.hmap" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/AppSettings.build/Debug-iphonesimulator/AppSettings.build/AppSettings-own-target-headers.hmap" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/AppSettings.build/Debug-iphonesimulator/AppSettings.build/AppSettings-all-target-headers.hmap" -iquote "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/AppSettings.build/Debug-iphonesimulator/AppSettings.build/AppSettings-project-headers.hmap" "-F/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/Debug-iphonesimulator" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/Debug-iphonesimulator/include" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/AppSettings.build/Debug-iphonesimulator/AppSettings.build/DerivedSources/i386" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/AppSettings.build/Debug-iphonesimulator/AppSettings.build/DerivedSources" -include /var/folders/C6/C65Tk4iAHkmWsJm5lMpc1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppSettings_Prefix-gggdxpbloepljtataweapmvalxxl/AppSettings_Prefix.pch -c "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/Classes/MainViewController.m" -o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/AppSettings.build/Debug-iphonesimulator/AppSettings.build/Objects-normal/i386/MainViewController.o"0#
+
+CCompileC build/AppSettings.build/Debug-iphonesimulator/AppSettings.build/Objects-normal/i386/main.o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s312177484.752485
+e312177484.821130
+r1
+xCompileC
+xbuild/AppSettings.build/Debug-iphonesimulator/AppSettings.build/Objects-normal/i386/main.o
+x/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/main.m312177484#312177484#0(0"0(0#0#91"/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/main.m8633245856#2625"    cd "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/AppSettings.build/Debug-iphonesimulator/AppSettings.build/AppSettings-generated-files.hmap" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/AppSettings.build/Debug-iphonesimulator/AppSettings.build/AppSettings-own-target-headers.hmap" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/AppSettings.build/Debug-iphonesimulator/AppSettings.build/AppSettings-all-target-headers.hmap" -iquote "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/AppSettings.build/Debug-iphonesimulator/AppSettings.build/AppSettings-project-headers.hmap" "-F/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/Debug-iphonesimulator" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/Debug-iphonesimulator/include" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/AppSettings.build/Debug-iphonesimulator/AppSettings.build/DerivedSources/i386" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/AppSettings.build/Debug-iphonesimulator/AppSettings.build/DerivedSources" -include /var/folders/C6/C65Tk4iAHkmWsJm5lMpc1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppSettings_Prefix-gggdxpbloepljtataweapmvalxxl/AppSettings_Prefix.pch -c "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/main.m" -o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/AppSettings.build/Debug-iphonesimulator/AppSettings.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/FlipsideView.xib"
+s312177482.575583
+e312177483.373175
+r1
+xCompileXIB
+x/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/FlipsideView.xib
+lSLF07#2@27"CompileXIB FlipsideView.xib312177482#312177483#0(0"0(0#0#101"/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/FlipsideView.xib8632674912#784"    cd "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/Debug-iphonesimulator/AppSettings.app/FlipsideView.nib" "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/FlipsideView.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
+
+CCompileXIB "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/MainView.xib"
+s312177482.576272
+e312177483.334144
+r1
+xCompileXIB
+x/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/MainView.xib
+lSLF07#2@23"CompileXIB MainView.xib312177482#312177483#0(0"0(0#0#97"/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/MainView.xib8631854400#776"    cd "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/Debug-iphonesimulator/AppSettings.app/MainView.nib" "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/MainView.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
+
+CCompileXIB "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/MainWindow.xib"
+s312177483.334233
+e312177483.701386
+r1
+xCompileXIB
+x/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib312177483#312177483#0(0"0(0#0#99"/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/MainWindow.xib8635335712#780"    cd "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/Debug-iphonesimulator/AppSettings.app/MainWindow.nib" "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/AppSettings.app/Settings.bundle Settings.bundle
+s312177483.374056
+e312177483.449157
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AppSettings.app/Settings.bundle
+xSettings.bundle
+lSLF07#2@20"Copy Settings.bundle312177483#312177483#0(0"0(0#0#100"/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/Settings.bundle8635080384#669"    cd "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/Settings.bundle" "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/Debug-iphonesimulator/AppSettings.app"0#
+
+CCpResource build/Debug-iphonesimulator/AppSettings.app/icon.png icon.png
+s312177483.373256
+e312177483.444289
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AppSettings.app/icon.png
+xicon.png
+lSLF07#2@13"Copy icon.png312177483#312177483#0(0"0(0#0#93"/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/icon.png8635189920#662"    cd "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/icon.png" "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/Debug-iphonesimulator/AppSettings.app"0#
+
+CCpResource build/Debug-iphonesimulator/AppSettings.app/rabbit.png rabbit.png
+s312177483.374645
+e312177483.444991
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AppSettings.app/rabbit.png
+xrabbit.png
+lSLF07#2@15"Copy rabbit.png312177483#312177483#0(0"0(0#0#95"/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/rabbit.png8634989088#664"    cd "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/rabbit.png" "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/Debug-iphonesimulator/AppSettings.app"0#
+
+CCpResource build/Debug-iphonesimulator/AppSettings.app/turtle.png turtle.png
+s312177483.376200
+e312177483.445565
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AppSettings.app/turtle.png
+xturtle.png
+lSLF07#2@15"Copy turtle.png312177483#312177483#0(0"0(0#0#95"/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/turtle.png8634804480#664"    cd "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/turtle.png" "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/Debug-iphonesimulator/AppSettings.app"0#
+
+CGenerateDSYMFile "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/Debug-iphonesimulator/AppSettings.app.dSYM" "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/Debug-iphonesimulator/AppSettings.app/AppSettings"
+s312177485.070495
+e312177485.122713
+r1
+xGenerateDSYMFile
+x/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/Debug-iphonesimulator/AppSettings.app.dSYM
+x/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/Debug-iphonesimulator/AppSettings.app/AppSettings
+lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/AppSettings.app.dSYM build/Debug-iphonesimulator/AppSettings.app/AppSettings312177485#312177485#0(0"0(0#0#140"/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/Debug-iphonesimulator/AppSettings.app/AppSettings8633692960#601"    cd "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/Debug-iphonesimulator/AppSettings.app/AppSettings" -o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/Debug-iphonesimulator/AppSettings.app.dSYM"0#
+
+CLd "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/Debug-iphonesimulator/AppSettings.app/AppSettings" normal i386
+s312177485.047187
+e312177485.070391
+r1
+xLd
+x/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/Debug-iphonesimulator/AppSettings.app/AppSettings
+xnormal
+xi386
+lSLF07#2@145"Link /Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/Debug-iphonesimulator/AppSettings.app/AppSettings312177485#312177485#0(0"0(0#0#0"8634348192#1222"    cd "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk "-L/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/Debug-iphonesimulator" "-F/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/Debug-iphonesimulator" -filelist "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/AppSettings.build/Debug-iphonesimulator/AppSettings.build/Objects-normal/i386/AppSettings.LinkFileList" -mmacosx-version-min=10.5 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/Debug-iphonesimulator/AppSettings.app/AppSettings"0#
+
+CProcessInfoPlistFile "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/Debug-iphonesimulator/AppSettings.app/Info.plist" AppSettings-Info.plist
+s312177482.513576
+e312177482.575504
+r1
+xProcessInfoPlistFile
+x/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/Debug-iphonesimulator/AppSettings.app/Info.plist
+xAppSettings-Info.plist
+lSLF07#2@30"Process AppSettings-Info.plist312177482#312177482#0(0"0(0#0#107"/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/AppSettings-Info.plist8634151456#697"    cd "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility AppSettings-Info.plist -genpkginfo "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/Debug-iphonesimulator/AppSettings.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/Debug-iphonesimulator/AppSettings.app/Info.plist"0#
+
+CProcessPCH /var/folders/C6/C65Tk4iAHkmWsJm5lMpc1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppSettings_Prefix-gggdxpbloepljtataweapmvalxxl/AppSettings_Prefix.pch.gch AppSettings_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s312177483.701598
+e312177484.752051
+r1
+xProcessPCH
+x/var/folders/C6/C65Tk4iAHkmWsJm5lMpc1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppSettings_Prefix-gggdxpbloepljtataweapmvalxxl/AppSettings_Prefix.pch.gch
+xAppSettings_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile AppSettings_Prefix.pch312177483#312177484#0(0"0(0#0#107"/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/AppSettings_Prefix.pch8630675712#2465"    cd "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/AppSettings.build/Debug-iphonesimulator/AppSettings.build/AppSettings-generated-files.hmap" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/AppSettings.build/Debug-iphonesimulator/AppSettings.build/AppSettings-own-target-headers.hmap" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/AppSettings.build/Debug-iphonesimulator/AppSettings.build/AppSettings-all-target-headers.hmap" -iquote "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/AppSettings.build/Debug-iphonesimulator/AppSettings.build/AppSettings-project-headers.hmap" "-F/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/Debug-iphonesimulator" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/Debug-iphonesimulator/include" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/AppSettings.build/Debug-iphonesimulator/AppSettings.build/DerivedSources/i386" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/AppSettings.build/Debug-iphonesimulator/AppSettings.build/DerivedSources" -c "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/AppSettings_Prefix.pch" -o /var/folders/C6/C65Tk4iAHkmWsJm5lMpc1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppSettings_Prefix-gggdxpbloepljtataweapmvalxxl/AppSettings_Prefix.pch.gch0#
+
+CTouch "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/Debug-iphonesimulator/AppSettings.app"
+s312177485.122800
+e312177485.125609
+r1
+xTouch
+x/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/Debug-iphonesimulator/AppSettings.app
+lSLF07#2@134"Touch /Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/Debug-iphonesimulator/AppSettings.app312177485#312177485#0(0"0(0#0#0"8633659968#440"    cd "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/Debug-iphonesimulator/AppSettings.app"0#
+

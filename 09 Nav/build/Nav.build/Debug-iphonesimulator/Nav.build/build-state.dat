@@ -1,0 +1,795 @@
+TNav
+v7
+r0
+t312139100.914182
+cCheck dependencies
+cProcessInfoPlistFile "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/Nav.app/Info.plist" Nav-Info.plist
+cProcessPCH /var/folders/C6/C65Tk4iAHkmWsJm5lMpc1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nav_Prefix-cusjbnalhlazehdmwwwhuyofgsys/Nav_Prefix.pch.gch Nav_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileXIB "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/MainWindow.xib"
+cCpResource build/Debug-iphonesimulator/Nav.app/Nav_Prefix.pch.gch /var/folders/C6/C65Tk4iAHkmWsJm5lMpc1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nav_Prefix-cusjbnalhlazehdmwwwhuyofgsys/Nav_Prefix.pch.gch
+cCompileC build/Debug-iphonesimulator/Nav.app/SecondLevelViewController.o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/SecondLevelViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileXIB "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/DisclosureDetail.xib"
+cCpResource build/Debug-iphonesimulator/Nav.app/moveMeIcon.png Images/moveMeIcon.png
+cCpResource build/Debug-iphonesimulator/Nav.app/detailEditIcon.png Images/detailEditIcon.png
+cCpResource build/Debug-iphonesimulator/Nav.app/deleteMeIcon.png Images/deleteMeIcon.png
+cCpResource build/Debug-iphonesimulator/Nav.app/rowControlsIcon.png Images/rowControlsIcon.png
+cCpResource build/Debug-iphonesimulator/Nav.app/disclosureButtonControllerIcon.png Images/disclosureButtonControllerIcon.png
+cCpResource build/Debug-iphonesimulator/Nav.app/checkmarkControllerIcon.png Images/checkmarkControllerIcon.png
+cCpResource build/Debug-iphonesimulator/Nav.app/button_down.png Images/button_down.png
+cCpResource build/Debug-iphonesimulator/Nav.app/button_up.png Images/button_up.png
+cCopyPlistFile "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/Nav.app/computers.plist" computers.plist
+cCpResource build/Debug-iphonesimulator/Nav.app/Presidents.plist Presidents.plist
+cCompileC build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/main.o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/NavAppDelegate.o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/NavAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/FirstLevelViewController.o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/FirstLevelViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/DisclosureDetailController.o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/DisclosureDetailController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/SecondLevelViewController.o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/SecondLevelViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/DisclosureButtonController.o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/DisclosureButtonController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/CheckListController.o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/CheckListController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/RowControlsController.o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/RowControlsController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/MoveMeController.o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/MoveMeController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/DeleteMeController.o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/DeleteMeController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/President.o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/President.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/PresidentsViewController.o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/PresidentsViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/PresidentDetailController.o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/PresidentDetailController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/Nav.app/Nav" normal i386
+cGenerateDSYMFile "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/Nav.app.dSYM" "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/Nav.app/Nav"
+cTouch "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/Nav.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004C494D260000000000000110
+t1279872294
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BD1CD90000000000026F020
+t1272040848
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BD1FFC200000000002A96A0
+t1272053698
+s2791072
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BD1FF9E0000000000001355
+t1272053662
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BD20412000000000000098F
+t1272054802
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BD20471000000000222E640
+t1272054897
+s35841600
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/CheckListController.h
+c000000004AD3579000000000000001AF
+t1255364496
+s431
+i<Foundation/Foundation.h>
+i"SecondLevelViewController.h"
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/CheckListController.m
+c000000004AD357900000000000000A6E
+t1255364496
+s2670
+i"CheckListController.h"
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/DeleteMeController.h
+c000000004AD35790000000000000017E
+t1255364496
+s382
+i<Foundation/Foundation.h>
+i"SecondLevelViewController.h"
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/DeleteMeController.m
+c000000004CE7A42B0000000000000A41
+t1290249259
+s2625
+i"DeleteMeController.h"
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/DisclosureButtonController.h
+c000000004AD3579000000000000001B3
+t1255364496
+s435
+i<Foundation/Foundation.h>
+i"SecondLevelViewController.h"
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/DisclosureButtonController.m
+c000000004AD357900000000000000D88
+t1255364496
+s3464
+i"DisclosureButtonController.h"
+i"NavAppDelegate.h"
+i"DisclosureDetailController.h"
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/DisclosureDetailController.h
+c000000004AD357900000000000000189
+t1255364496
+s393
+i<Foundation/Foundation.h>
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/DisclosureDetailController.m
+c000000004AD357900000000000000210
+t1255364496
+s528
+i"DisclosureDetailController.h"
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/FirstLevelViewController.h
+c000000004AD35790000000000000013F
+t1255364496
+s319
+i<Foundation/Foundation.h>
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/FirstLevelViewController.m
+c000000004AD35790000000000000129B
+t1255364496
+s4763
+i"FirstLevelViewController.h"
+i"SecondLevelViewController.h"
+i"DisclosureButtonController.h"
+i"CheckListController.h"
+i"RowControlsController.h"
+i"MoveMeController.h"
+i"DeleteMeController.h"
+i"PresidentsViewController.h"
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/MoveMeController.h
+c000000004CE7A281000000000000016F
+t1290248833
+s367
+i<Foundation/Foundation.h>
+i"SecondLevelViewController.h"
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/MoveMeController.m
+c000000004AD357900000000000000B30
+t1255364496
+s2864
+i"MoveMeController.h"
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/NavAppDelegate.h
+c000000004AD3579000000000000001A7
+t1255364496
+s423
+i<UIKit/UIKit.h>
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/NavAppDelegate.m
+c000000004AD357900000000000000226
+t1255364496
+s550
+i"NavAppDelegate.h"
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/President.h
+c000000004AD35790000000000000030D
+t1255364496
+s781
+i<Foundation/Foundation.h>
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/President.m
+c000000004AD3579000000000000004D6
+t1255364496
+s1238
+i"President.h"
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/PresidentDetailController.h
+c000000004AD3579000000000000003D9
+t1255364496
+s985
+i<Foundation/Foundation.h>
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/PresidentDetailController.m
+c000000004CEAA2E70000000000001DD6
+t1290445543
+s7638
+i"PresidentDetailController.h"
+i"President.h"
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/PresidentsViewController.h
+c000000004AD35790000000000000016C
+t1255364496
+s364
+i<Foundation/Foundation.h>
+i"SecondLevelViewController.h"
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/PresidentsViewController.m
+c000000004AD3579000000000000009DE
+t1255364496
+s2526
+i"PresidentsViewController.h"
+i"PresidentDetailController.h"
+i"President.h"
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/RowControlsController.h
+c000000004AD357900000000000000179
+t1255364496
+s377
+i<Foundation/Foundation.h>
+i"SecondLevelViewController.h"
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/RowControlsController.m
+c000000004AD357900000000000000F06
+t1255364496
+s3846
+i"RowControlsController.h"
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/SecondLevelViewController.h
+c000000004AD35790000000000000013E
+t1255364496
+s318
+i<Foundation/Foundation.h>
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/SecondLevelViewController.m
+c000000004AD3579000000000000000F4
+t1255364496
+s244
+i"SecondLevelViewController.h"
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/DisclosureDetail.xib
+c000000004AD357900000000000001E8C
+t1255364496
+s7820
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Images/button_down.png
+c000000004AD357900000000000000C6D
+t1255364496
+s3181
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Images/button_up.png
+c000000004AD357900000000000000CDA
+t1255364496
+s3290
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Images/checkmarkControllerIcon.png
+c000000004AD357900000000000000226
+t1255364496
+s550
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Images/deleteMeIcon.png
+c000000004AD357900000000000000ED0
+t1255364496
+s3792
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Images/detailEditIcon.png
+c000000004AD357900000000000000CAD
+t1255364496
+s3245
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Images/disclosureButtonControllerIcon.png
+c000000004AD35790000000000000138B
+t1255364496
+s5003
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Images/moveMeIcon.png
+c000000004AD357900000000000000CE6
+t1255364496
+s3302
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Images/rowControlsIcon.png
+c000000004AD3579000000000000001D6
+t1255364496
+s470
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/MainWindow.xib
+c000000004AD357900000000000002D0E
+t1255364496
+s11534
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Nav_Prefix.pch
+c000000004AD3579000000000000000AF
+t1255364496
+s175
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Presidents.plist
+c000000004AD3579000000000000010E1
+t1255364496
+s4321
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/Nav.app
+t1290446300
+s646
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/Nav.app.dSYM
+t1290446300
+s102
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/Nav.app/DisclosureDetail.nib
+t1290242155
+s1219
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/Nav.app/Info.plist
+t1290242153
+s575
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/Nav.app/MainWindow.nib
+t1290242155
+s1504
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/Nav.app/Nav
+t1290446300
+s74780
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/Nav.app/Nav_Prefix.pch.gch
+t1290242155
+s13825936
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/Nav.app/PkgInfo
+t1290242153
+s8
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/Nav.app/Presidents.plist
+t1290242155
+s4321
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/Nav.app/SecondLevelViewController.o
+t1290242155
+s33956
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/Nav.app/button_down.png
+t1290242155
+s3181
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/Nav.app/button_up.png
+t1290242155
+s3290
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/Nav.app/checkmarkControllerIcon.png
+t1290242155
+s550
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/Nav.app/computers.plist
+t1290242155
+s5594
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/Nav.app/deleteMeIcon.png
+t1290242155
+s3792
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/Nav.app/detailEditIcon.png
+t1290242155
+s3245
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/Nav.app/disclosureButtonControllerIcon.png
+t1290242155
+s5003
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/Nav.app/moveMeIcon.png
+t1290242155
+s3302
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/Nav.app/rowControlsIcon.png
+t1290242155
+s470
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/CheckListController.o
+t1290242156
+s43352
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/DeleteMeController.o
+t1290250304
+s42748
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/DisclosureButtonController.o
+t1290242156
+s49292
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/DisclosureDetailController.o
+t1290242156
+s37136
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/FirstLevelViewController.o
+t1290249238
+s46316
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/MoveMeController.o
+t1290249238
+s43776
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/Nav.LinkFileList
+c000000004CE78869000000000000087F
+t1290242153
+s2175
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/NavAppDelegate.o
+t1290242156
+s44892
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/President.o
+t1290242156
+s15424
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/PresidentDetailController.o
+t1290446300
+s61188
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/PresidentsViewController.o
+t1290242156
+s43080
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/RowControlsController.o
+t1290242156
+s50880
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/SecondLevelViewController.o
+t1290242156
+s33956
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/main.o
+t1290242155
+s6380
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/computers.plist
+c000000004AD357900000000000002271
+t1255364496
+s8817
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/main.m
+c000000004AD357900000000000000159
+t1255364496
+s345
+i<UIKit/UIKit.h>
+
+N/var/folders/C6/C65Tk4iAHkmWsJm5lMpc1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nav_Prefix-cusjbnalhlazehdmwwwhuyofgsys/Nav_Prefix.pch.gch
+t1290242154
+s13825936
+
+NNav-Info.plist
+c000000004AD35790000000000000038D
+t1255364496
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies312139100#312139100#0(0"0(0#1#0"8609744032#0"0#
+
+CCompileC build/Debug-iphonesimulator/Nav.app/SecondLevelViewController.o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/SecondLevelViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s311934954.669508
+e311934955.199869
+r1
+xCompileC
+xbuild/Debug-iphonesimulator/Nav.app/SecondLevelViewController.o
+x/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/SecondLevelViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@120"Compile /Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/SecondLevelViewController.m311934954#311934955#0(0"0(0#0#112"/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/SecondLevelViewController.m8601079136#2395"    cd "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-generated-files.hmap" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-own-target-headers.hmap" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-all-target-headers.hmap" -iquote "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-project-headers.hmap" "-F/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/include" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/DerivedSources/i386" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/DerivedSources" -include /var/folders/C6/C65Tk4iAHkmWsJm5lMpc1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nav_Prefix-cusjbnalhlazehdmwwwhuyofgsys/Nav_Prefix.pch -c "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/SecondLevelViewController.m" -o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/Nav.app/SecondLevelViewController.o"0#
+
+CCompileC build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/CheckListController.o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/CheckListController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s311934956.131267
+e311934956.203534
+r1
+xCompileC
+xbuild/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/CheckListController.o
+x/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/CheckListController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@114"Compile /Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/CheckListController.m311934956#311934956#0(0"0(0#0#106"/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/CheckListController.m8601422144#2415"    cd "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-generated-files.hmap" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-own-target-headers.hmap" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-all-target-headers.hmap" -iquote "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-project-headers.hmap" "-F/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/include" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/DerivedSources/i386" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/DerivedSources" -include /var/folders/C6/C65Tk4iAHkmWsJm5lMpc1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nav_Prefix-cusjbnalhlazehdmwwwhuyofgsys/Nav_Prefix.pch -c "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/CheckListController.m" -o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/CheckListController.o"0#
+
+CCompileC build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/DeleteMeController.o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/DeleteMeController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s311943104.625268
+e311943104.688835
+r1
+xCompileC
+xbuild/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/DeleteMeController.o
+x/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/DeleteMeController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@113"Compile /Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/DeleteMeController.m311943104#311943104#0(0"0(0#0#105"/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/DeleteMeController.m8614762880#2413"    cd "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-generated-files.hmap" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-own-target-headers.hmap" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-all-target-headers.hmap" -iquote "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-project-headers.hmap" "-F/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/include" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/DerivedSources/i386" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/DerivedSources" -include /var/folders/C6/C65Tk4iAHkmWsJm5lMpc1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nav_Prefix-cusjbnalhlazehdmwwwhuyofgsys/Nav_Prefix.pch -c "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/DeleteMeController.m" -o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/DeleteMeController.o"0#
+
+CCompileC build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/DisclosureButtonController.o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/DisclosureButtonController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s311934956.089863
+e311934956.166340
+r1
+xCompileC
+xbuild/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/DisclosureButtonController.o
+x/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/DisclosureButtonController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@121"Compile /Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/DisclosureButtonController.m311934956#311934956#0(0"0(0#0#113"/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/DisclosureButtonController.m8603964928#2429"    cd "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-generated-files.hmap" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-own-target-headers.hmap" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-all-target-headers.hmap" -iquote "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-project-headers.hmap" "-F/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/include" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/DerivedSources/i386" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/DerivedSources" -include /var/folders/C6/C65Tk4iAHkmWsJm5lMpc1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nav_Prefix-cusjbnalhlazehdmwwwhuyofgsys/Nav_Prefix.pch -c "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/DisclosureButtonController.m" -o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/DisclosureButtonController.o"0#
+
+CCompileC build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/DisclosureDetailController.o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/DisclosureDetailController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s311934956.010864
+e311934956.089760
+r1
+xCompileC
+xbuild/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/DisclosureDetailController.o
+x/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/DisclosureDetailController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@121"Compile /Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/DisclosureDetailController.m311934956#311934956#0(0"0(0#0#113"/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/DisclosureDetailController.m8602847424#2429"    cd "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-generated-files.hmap" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-own-target-headers.hmap" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-all-target-headers.hmap" -iquote "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-project-headers.hmap" "-F/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/include" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/DerivedSources/i386" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/DerivedSources" -include /var/folders/C6/C65Tk4iAHkmWsJm5lMpc1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nav_Prefix-cusjbnalhlazehdmwwwhuyofgsys/Nav_Prefix.pch -c "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/DisclosureDetailController.m" -o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/DisclosureDetailController.o"0#
+
+CCompileC build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/FirstLevelViewController.o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/FirstLevelViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s311942038.530327
+e311942038.614800
+r1
+xCompileC
+xbuild/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/FirstLevelViewController.o
+x/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/FirstLevelViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@119"Compile /Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/FirstLevelViewController.m311942038#311942038#0(0"0(0#0#111"/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/FirstLevelViewController.m8617594816#2425"    cd "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-generated-files.hmap" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-own-target-headers.hmap" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-all-target-headers.hmap" -iquote "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-project-headers.hmap" "-F/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/include" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/DerivedSources/i386" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/DerivedSources" -include /var/folders/C6/C65Tk4iAHkmWsJm5lMpc1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nav_Prefix-cusjbnalhlazehdmwwwhuyofgsys/Nav_Prefix.pch -c "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/FirstLevelViewController.m" -o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/FirstLevelViewController.o"0#
+
+CCompileC build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/MoveMeController.o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/MoveMeController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s311942038.531644
+e311942038.603287
+r1
+xCompileC
+xbuild/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/MoveMeController.o
+x/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/MoveMeController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@111"Compile /Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/MoveMeController.m311942038#311942038#0(0"0(0#0#103"/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/MoveMeController.m8620320224#2409"    cd "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-generated-files.hmap" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-own-target-headers.hmap" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-all-target-headers.hmap" -iquote "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-project-headers.hmap" "-F/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/include" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/DerivedSources/i386" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/DerivedSources" -include /var/folders/C6/C65Tk4iAHkmWsJm5lMpc1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nav_Prefix-cusjbnalhlazehdmwwwhuyofgsys/Nav_Prefix.pch -c "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/MoveMeController.m" -o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/MoveMeController.o"0#
+
+CCompileC build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/NavAppDelegate.o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/NavAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s311934955.942954
+e311934956.010753
+r1
+xCompileC
+xbuild/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/NavAppDelegate.o
+x/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/NavAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@109"Compile /Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/NavAppDelegate.m311934955#311934956#0(0"0(0#0#101"/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/NavAppDelegate.m8603796704#2405"    cd "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-generated-files.hmap" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-own-target-headers.hmap" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-all-target-headers.hmap" -iquote "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-project-headers.hmap" "-F/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/include" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/DerivedSources/i386" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/DerivedSources" -include /var/folders/C6/C65Tk4iAHkmWsJm5lMpc1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nav_Prefix-cusjbnalhlazehdmwwwhuyofgsys/Nav_Prefix.pch -c "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/NavAppDelegate.m" -o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/NavAppDelegate.o"0#
+
+CCompileC build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/President.o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/President.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s311934956.283954
+e311934956.352529
+r1
+xCompileC
+xbuild/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/President.o
+x/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/President.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@104"Compile /Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/President.m311934956#311934956#0(0"0(0#0#96"/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/President.m8603408032#2395"    cd "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-generated-files.hmap" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-own-target-headers.hmap" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-all-target-headers.hmap" -iquote "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-project-headers.hmap" "-F/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/include" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/DerivedSources/i386" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/DerivedSources" -include /var/folders/C6/C65Tk4iAHkmWsJm5lMpc1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nav_Prefix-cusjbnalhlazehdmwwwhuyofgsys/Nav_Prefix.pch -c "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/President.m" -o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/President.o"0#
+
+CCompileC build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/PresidentDetailController.o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/PresidentDetailController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s312139100.681237
+e312139100.846248
+r1
+xCompileC
+xbuild/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/PresidentDetailController.o
+x/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/PresidentDetailController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@120"Compile /Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/PresidentDetailController.m312139100#312139100#0(0"0(0#0#112"/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/PresidentDetailController.m8611450432#2427"    cd "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-generated-files.hmap" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-own-target-headers.hmap" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-all-target-headers.hmap" -iquote "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-project-headers.hmap" "-F/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/include" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/DerivedSources/i386" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/DerivedSources" -include /var/folders/C6/C65Tk4iAHkmWsJm5lMpc1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nav_Prefix-cusjbnalhlazehdmwwwhuyofgsys/Nav_Prefix.pch -c "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/PresidentDetailController.m" -o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/PresidentDetailController.o"0#
+
+CCompileC build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/PresidentsViewController.o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/PresidentsViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s311934956.324446
+e311934956.402412
+r1
+xCompileC
+xbuild/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/PresidentsViewController.o
+x/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/PresidentsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@119"Compile /Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/PresidentsViewController.m311934956#311934956#0(0"0(0#0#111"/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/PresidentsViewController.m8603157376#2425"    cd "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-generated-files.hmap" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-own-target-headers.hmap" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-all-target-headers.hmap" -iquote "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-project-headers.hmap" "-F/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/include" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/DerivedSources/i386" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/DerivedSources" -include /var/folders/C6/C65Tk4iAHkmWsJm5lMpc1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nav_Prefix-cusjbnalhlazehdmwwwhuyofgsys/Nav_Prefix.pch -c "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/PresidentsViewController.m" -o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/PresidentsViewController.o"0#
+
+CCompileC build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/RowControlsController.o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/RowControlsController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s311934956.166443
+e311934956.256883
+r1
+xCompileC
+xbuild/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/RowControlsController.o
+x/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/RowControlsController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@116"Compile /Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/RowControlsController.m311934956#311934956#0(0"0(0#0#108"/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/RowControlsController.m8603380032#2419"    cd "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-generated-files.hmap" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-own-target-headers.hmap" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-all-target-headers.hmap" -iquote "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-project-headers.hmap" "-F/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/include" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/DerivedSources/i386" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/DerivedSources" -include /var/folders/C6/C65Tk4iAHkmWsJm5lMpc1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nav_Prefix-cusjbnalhlazehdmwwwhuyofgsys/Nav_Prefix.pch -c "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/RowControlsController.m" -o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/RowControlsController.o"0#
+
+CCompileC build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/SecondLevelViewController.o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/SecondLevelViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s311934956.076638
+e311934956.131171
+r1
+xCompileC
+xbuild/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/SecondLevelViewController.o
+x/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/SecondLevelViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@120"Compile /Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/SecondLevelViewController.m311934956#311934956#0(0"0(0#0#112"/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/SecondLevelViewController.m8603991552#2427"    cd "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-generated-files.hmap" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-own-target-headers.hmap" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-all-target-headers.hmap" -iquote "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-project-headers.hmap" "-F/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/include" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/DerivedSources/i386" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/DerivedSources" -include /var/folders/C6/C65Tk4iAHkmWsJm5lMpc1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nav_Prefix-cusjbnalhlazehdmwwwhuyofgsys/Nav_Prefix.pch -c "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/SecondLevelViewController.m" -o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/SecondLevelViewController.o"0#
+
+CCompileC build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/main.o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s311934955.941777
+e311934955.994679
+r1
+xCompileC
+xbuild/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/main.o
+x/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/main.m311934955#311934955#0(0"0(0#0#83"/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/main.m8604462272#2377"    cd "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-generated-files.hmap" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-own-target-headers.hmap" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-all-target-headers.hmap" -iquote "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-project-headers.hmap" "-F/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/include" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/DerivedSources/i386" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/DerivedSources" -include /var/folders/C6/C65Tk4iAHkmWsJm5lMpc1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nav_Prefix-cusjbnalhlazehdmwwwhuyofgsys/Nav_Prefix.pch -c "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/main.m" -o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/DisclosureDetail.xib"
+s311934955.200042
+e311934955.683986
+r1
+xCompileXIB
+x/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/DisclosureDetail.xib
+lSLF07#2@31"CompileXIB DisclosureDetail.xib311934955#311934955#0(0"0(0#0#97"/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/DisclosureDetail.xib8603966048#760"    cd "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/Nav.app/DisclosureDetail.nib" "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/DisclosureDetail.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
+
+CCompileXIB "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/MainWindow.xib"
+s311934954.667786
+e311934955.177099
+r1
+xCompileXIB
+x/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib311934954#311934955#0(0"0(0#0#91"/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/MainWindow.xib8602722464#748"    cd "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/Nav.app/MainWindow.nib" "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
+
+CCopyPlistFile "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/Nav.app/computers.plist" computers.plist
+s311934955.540166
+e311934955.941648
+r1
+xCopyPlistFile
+x/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/Nav.app/computers.plist
+xcomputers.plist
+lSLF07#2@20"Copy computers.plist311934955#311934955#0(0"0(0#0#92"/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/computers.plist8602891776#528"    cd "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 computers.plist --outdir "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/Nav.app"0#
+
+CCpResource build/Debug-iphonesimulator/Nav.app/Nav_Prefix.pch.gch /var/folders/C6/C65Tk4iAHkmWsJm5lMpc1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nav_Prefix-cusjbnalhlazehdmwwwhuyofgsys/Nav_Prefix.pch.gch
+s311934954.668705
+e311934955.528683
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Nav.app/Nav_Prefix.pch.gch
+x/var/folders/C6/C65Tk4iAHkmWsJm5lMpc1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nav_Prefix-cusjbnalhlazehdmwwwhuyofgsys/Nav_Prefix.pch.gch
+lSLF07#2@161"Copy /var/folders/C6/C65Tk4iAHkmWsJm5lMpc1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nav_Prefix-cusjbnalhlazehdmwwwhuyofgsys/Nav_Prefix.pch.gch311934954#311934955#0(0"0(0#0#156"/var/folders/C6/C65Tk4iAHkmWsJm5lMpc1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nav_Prefix-cusjbnalhlazehdmwwwhuyofgsys/Nav_Prefix.pch.gch8604100000#699"    cd "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /var/folders/C6/C65Tk4iAHkmWsJm5lMpc1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nav_Prefix-cusjbnalhlazehdmwwwhuyofgsys/Nav_Prefix.pch.gch "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/Nav.app"0#
+
+CCpResource build/Debug-iphonesimulator/Nav.app/Presidents.plist Presidents.plist
+s311934955.684070
+e311934955.725167
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Nav.app/Presidents.plist
+xPresidents.plist
+lSLF07#2@21"Copy Presidents.plist311934955#311934955#0(0"0(0#0#93"/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Presidents.plist8602663584#638"    cd "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Presidents.plist" "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/Nav.app"0#
+
+CCpResource build/Debug-iphonesimulator/Nav.app/button_down.png Images/button_down.png
+s311934955.537110
+e311934955.638231
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Nav.app/button_down.png
+xImages/button_down.png
+lSLF07#2@27"Copy Images/button_down.png311934955#311934955#0(0"0(0#0#99"/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Images/button_down.png8601413280#644"    cd "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Images/button_down.png" "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/Nav.app"0#
+
+CCpResource build/Debug-iphonesimulator/Nav.app/button_up.png Images/button_up.png
+s311934955.538631
+e311934955.638368
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Nav.app/button_up.png
+xImages/button_up.png
+lSLF07#2@25"Copy Images/button_up.png311934955#311934955#0(0"0(0#0#97"/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Images/button_up.png8603284576#642"    cd "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Images/button_up.png" "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/Nav.app"0#
+
+CCpResource build/Debug-iphonesimulator/Nav.app/checkmarkControllerIcon.png Images/checkmarkControllerIcon.png
+s311934955.535567
+e311934955.638528
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Nav.app/checkmarkControllerIcon.png
+xImages/checkmarkControllerIcon.png
+lSLF07#2@39"Copy Images/checkmarkControllerIcon.png311934955#311934955#0(0"0(0#0#111"/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Images/checkmarkControllerIcon.png8601447488#656"    cd "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Images/checkmarkControllerIcon.png" "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/Nav.app"0#
+
+CCpResource build/Debug-iphonesimulator/Nav.app/deleteMeIcon.png Images/deleteMeIcon.png
+s311934955.530975
+e311934955.639699
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Nav.app/deleteMeIcon.png
+xImages/deleteMeIcon.png
+lSLF07#2@28"Copy Images/deleteMeIcon.png311934955#311934955#0(0"0(0#0#100"/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Images/deleteMeIcon.png8603363488#645"    cd "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Images/deleteMeIcon.png" "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/Nav.app"0#
+
+CCpResource build/Debug-iphonesimulator/Nav.app/detailEditIcon.png Images/detailEditIcon.png
+s311934955.529429
+e311934955.638989
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Nav.app/detailEditIcon.png
+xImages/detailEditIcon.png
+lSLF07#2@30"Copy Images/detailEditIcon.png311934955#311934955#0(0"0(0#0#102"/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Images/detailEditIcon.png8603555584#647"    cd "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Images/detailEditIcon.png" "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/Nav.app"0#
+
+CCpResource build/Debug-iphonesimulator/Nav.app/disclosureButtonControllerIcon.png Images/disclosureButtonControllerIcon.png
+s311934955.534031
+e311934955.639276
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Nav.app/disclosureButtonControllerIcon.png
+xImages/disclosureButtonControllerIcon.png
+lSLF07#2@46"Copy Images/disclosureButtonControllerIcon.png311934955#311934955#0(0"0(0#0#118"/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Images/disclosureButtonControllerIcon.png8602570240#663"    cd "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Images/disclosureButtonControllerIcon.png" "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/Nav.app"0#
+
+CCpResource build/Debug-iphonesimulator/Nav.app/moveMeIcon.png Images/moveMeIcon.png
+s311934955.528769
+e311934955.638845
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Nav.app/moveMeIcon.png
+xImages/moveMeIcon.png
+lSLF07#2@26"Copy Images/moveMeIcon.png311934955#311934955#0(0"0(0#0#98"/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Images/moveMeIcon.png8603674848#643"    cd "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Images/moveMeIcon.png" "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/Nav.app"0#
+
+CCpResource build/Debug-iphonesimulator/Nav.app/rowControlsIcon.png Images/rowControlsIcon.png
+s311934955.532505
+e311934955.639417
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Nav.app/rowControlsIcon.png
+xImages/rowControlsIcon.png
+lSLF07#2@31"Copy Images/rowControlsIcon.png311934955#311934955#0(0"0(0#0#103"/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Images/rowControlsIcon.png8602621536#648"    cd "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Images/rowControlsIcon.png" "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/Nav.app"0#
+
+CGenerateDSYMFile "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/Nav.app.dSYM" "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/Nav.app/Nav"
+s312139100.874987
+e312139100.910835
+r1
+xGenerateDSYMFile
+x/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/Nav.app.dSYM
+x/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/Nav.app/Nav
+lSLF07#2@97"GenerateDSYMFile build/Debug-iphonesimulator/Nav.app.dSYM build/Debug-iphonesimulator/Nav.app/Nav312139100#312139100#0(0"0(0#0#116"/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/Nav.app/Nav8622953856#553"    cd "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/Nav.app/Nav" -o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/Nav.app.dSYM"0#
+
+CLd "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/Nav.app/Nav" normal i386
+s312139100.846342
+e312139100.874884
+r1
+xLd
+x/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/Nav.app/Nav
+xnormal
+xi386
+lSLF07#2@121"Link /Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/Nav.app/Nav312139100#312139100#0(0"0(0#0#0"8626965088#1142"    cd "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk "-L/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator" "-F/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator" -filelist "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/Nav.LinkFileList" -mmacosx-version-min=10.5 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/Nav.app/Nav"0#
+
+CProcessInfoPlistFile "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/Nav.app/Info.plist" Nav-Info.plist
+s311934953.246131
+e311934953.284014
+r1
+xProcessInfoPlistFile
+x/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/Nav.app/Info.plist
+xNav-Info.plist
+lSLF07#2@22"Process Nav-Info.plist311934953#311934953#0(0"0(0#0#91"/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Nav-Info.plist2338615488418967552#649"    cd "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility Nav-Info.plist -genpkginfo "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/Nav.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/Nav.app/Info.plist"0#
+
+CProcessPCH /var/folders/C6/C65Tk4iAHkmWsJm5lMpc1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nav_Prefix-cusjbnalhlazehdmwwwhuyofgsys/Nav_Prefix.pch.gch Nav_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s311934953.284276
+e311934954.667663
+r1
+xProcessPCH
+x/var/folders/C6/C65Tk4iAHkmWsJm5lMpc1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nav_Prefix-cusjbnalhlazehdmwwwhuyofgsys/Nav_Prefix.pch.gch
+xNav_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@25"Precompile Nav_Prefix.pch311934953#311934954#0(0"0(0#0#91"/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Nav_Prefix.pch8604235744#2233"    cd "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-generated-files.hmap" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-own-target-headers.hmap" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-all-target-headers.hmap" -iquote "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-project-headers.hmap" "-F/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/include" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/DerivedSources/i386" "-I/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/DerivedSources" -c "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Nav_Prefix.pch" -o /var/folders/C6/C65Tk4iAHkmWsJm5lMpc1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nav_Prefix-cusjbnalhlazehdmwwwhuyofgsys/Nav_Prefix.pch.gch0#
+
+CTouch "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/Nav.app"
+s312139100.910923
+e312139100.914148
+r1
+xTouch
+x/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/Nav.app
+lSLF07#2@118"Touch /Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/Nav.app312139100#312139100#0(0"0(0#0#0"8609661504#416"    cd "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphonesimulator/Nav.app"0#
+

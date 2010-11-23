@@ -1,0 +1,111 @@
+TAppSettings
+v7
+r1
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/FlipsideView.xib
+c000000004AD357900000000000003A3A
+t1255364496
+s14906
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/MainView.xib
+c000000004AD3579000000000000084D4
+t1255364496
+s34004
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/MainWindow.xib
+c000000004AD357900000000000001DE7
+t1255364496
+s7655
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/Settings.bundle
+c000000004AD3578800000000000000EE
+t1255364488
+s238
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/Debug/AppSettings.app
+t2
+s0
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/Debug/AppSettings.app/Contents/Info.plist
+t2
+s0
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/Debug/AppSettings.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/Debug/AppSettings.app/Contents/Resources/FlipsideView.nib
+t2
+s0
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/Debug/AppSettings.app/Contents/Resources/MainView.nib
+t2
+s0
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/Debug/AppSettings.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/Debug/AppSettings.app/Contents/Resources/Settings.bundle
+t2
+s0
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/Debug/AppSettings.app/Contents/Resources/icon.png
+t2
+s0
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/Debug/AppSettings.app/Contents/Resources/rabbit.png
+t2
+s0
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/Debug/AppSettings.app/Contents/Resources/turtle.png
+t2
+s0
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/icon.png
+c000000004AD357900000000000001230
+t1255364496
+s4656
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/rabbit.png
+c000000004AD357900000000000000DCC
+t1255364496
+s3532
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/turtle.png
+c000000004AD357900000000000000C37
+t1255364496
+s3127
+
+NAppSettings-Info.plist
+c000000004AD357900000000000000395
+t1255364496
+s917
+
+CCompileXIB "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/FlipsideView.xib"
+r0
+
+CCompileXIB "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/MainView.xib"
+r0
+
+CCompileXIB "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/MainWindow.xib"
+r0
+
+CCpResource build/Debug/AppSettings.app/Contents/Resources/Settings.bundle Settings.bundle
+r0
+
+CCpResource build/Debug/AppSettings.app/Contents/Resources/icon.png icon.png
+r0
+
+CCpResource build/Debug/AppSettings.app/Contents/Resources/rabbit.png rabbit.png
+r0
+
+CCpResource build/Debug/AppSettings.app/Contents/Resources/turtle.png turtle.png
+r0
+
+CProcessInfoPlistFile "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/Debug/AppSettings.app/Contents/Info.plist" AppSettings-Info.plist
+r0
+
+CTouch "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/10 AppSettings/build/Debug/AppSettings.app"
+r0
+

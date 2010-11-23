@@ -1,0 +1,519 @@
+TNav
+v7
+r1
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk
+c000000004C5A53C10000000000000110
+t1280988097
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+c000000004C06E99F00000000000001E5
+t1275521439
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C005A1C00000000003B4B70
+t1275091484
+s3885936
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C005A45000000000036A640
+t1275091525
+s3581504
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C005A310000000000001355
+t1275091505
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C00642C000000000000098F
+t1275094060
+s2447
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0064A60000000002703220
+t1275094182
+s40907296
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/CheckListController.h
+c000000004AD3579000000000000001AF
+t1255364496
+s431
+i<Foundation/Foundation.h>
+i"SecondLevelViewController.h"
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/CheckListController.m
+c000000004AD357900000000000000A6E
+t1255364496
+s2670
+i"CheckListController.h"
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/DeleteMeController.h
+c000000004AD35790000000000000017E
+t1255364496
+s382
+i<Foundation/Foundation.h>
+i"SecondLevelViewController.h"
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/DeleteMeController.m
+c000000004AD357900000000000000A43
+t1255364496
+s2627
+i"DeleteMeController.h"
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/DisclosureButtonController.h
+c000000004AD3579000000000000001B3
+t1255364496
+s435
+i<Foundation/Foundation.h>
+i"SecondLevelViewController.h"
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/DisclosureButtonController.m
+c000000004AD357900000000000000D88
+t1255364496
+s3464
+i"DisclosureButtonController.h"
+i"NavAppDelegate.h"
+i"DisclosureDetailController.h"
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/DisclosureDetailController.h
+c000000004AD357900000000000000189
+t1255364496
+s393
+i<Foundation/Foundation.h>
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/DisclosureDetailController.m
+c000000004AD357900000000000000210
+t1255364496
+s528
+i"DisclosureDetailController.h"
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/FirstLevelViewController.h
+c000000004AD35790000000000000013F
+t1255364496
+s319
+i<Foundation/Foundation.h>
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/FirstLevelViewController.m
+c000000004AD35790000000000000129B
+t1255364496
+s4763
+i"FirstLevelViewController.h"
+i"SecondLevelViewController.h"
+i"DisclosureButtonController.h"
+i"CheckListController.h"
+i"RowControlsController.h"
+i"MoveMeController.h"
+i"DeleteMeController.h"
+i"PresidentsViewController.h"
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/MoveMeController.h
+c000000004AD35790000000000000016F
+t1255364496
+s367
+i<Foundation/Foundation.h>
+i"SecondLevelViewController.h"
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/MoveMeController.m
+c000000004AD357900000000000000B30
+t1255364496
+s2864
+i"MoveMeController.h"
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/NavAppDelegate.h
+c000000004AD3579000000000000001A7
+t1255364496
+s423
+i<UIKit/UIKit.h>
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/NavAppDelegate.m
+c000000004AD357900000000000000226
+t1255364496
+s550
+i"NavAppDelegate.h"
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/President.h
+c000000004AD35790000000000000030D
+t1255364496
+s781
+i<Foundation/Foundation.h>
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/President.m
+c000000004AD3579000000000000004D6
+t1255364496
+s1238
+i"President.h"
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/PresidentDetailController.h
+c000000004AD3579000000000000003D9
+t1255364496
+s985
+i<Foundation/Foundation.h>
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/PresidentDetailController.m
+c000000004AD357900000000000001D15
+t1255364496
+s7445
+i"PresidentDetailController.h"
+i"President.h"
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/PresidentsViewController.h
+c000000004AD35790000000000000016C
+t1255364496
+s364
+i<Foundation/Foundation.h>
+i"SecondLevelViewController.h"
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/PresidentsViewController.m
+c000000004AD3579000000000000009DE
+t1255364496
+s2526
+i"PresidentsViewController.h"
+i"PresidentDetailController.h"
+i"President.h"
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/RowControlsController.h
+c000000004AD357900000000000000179
+t1255364496
+s377
+i<Foundation/Foundation.h>
+i"SecondLevelViewController.h"
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/RowControlsController.m
+c000000004AD357900000000000000F06
+t1255364496
+s3846
+i"RowControlsController.h"
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/SecondLevelViewController.h
+c000000004AD35790000000000000013E
+t1255364496
+s318
+i<Foundation/Foundation.h>
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/SecondLevelViewController.m
+c000000004AD3579000000000000000F4
+t1255364496
+s244
+i"SecondLevelViewController.h"
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/DisclosureDetail.xib
+c000000004AD357900000000000001E8C
+t1255364496
+s7820
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Images/button_down.png
+c000000004AD357900000000000000C6D
+t1255364496
+s3181
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Images/button_up.png
+c000000004AD357900000000000000CDA
+t1255364496
+s3290
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Images/checkmarkControllerIcon.png
+c000000004AD357900000000000000226
+t1255364496
+s550
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Images/deleteMeIcon.png
+c000000004AD357900000000000000ED0
+t1255364496
+s3792
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Images/detailEditIcon.png
+c000000004AD357900000000000000CAD
+t1255364496
+s3245
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Images/disclosureButtonControllerIcon.png
+c000000004AD35790000000000000138B
+t1255364496
+s5003
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Images/moveMeIcon.png
+c000000004AD357900000000000000CE6
+t1255364496
+s3302
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Images/rowControlsIcon.png
+c000000004AD3579000000000000001D6
+t1255364496
+s470
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/MainWindow.xib
+c000000004AD357900000000000002D0E
+t1255364496
+s11534
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Nav_Prefix.pch
+c000000004AD3579000000000000000AF
+t1255364496
+s175
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Presidents.plist
+c000000004AD3579000000000000010E1
+t1255364496
+s4321
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphoneos/Nav.app
+t2
+s0
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphoneos/Nav.app.dSYM
+t2
+s0
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphoneos/Nav.app/DisclosureDetail.nib
+t2
+s0
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphoneos/Nav.app/Info.plist
+t2
+s0
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphoneos/Nav.app/MainWindow.nib
+t2
+s0
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphoneos/Nav.app/Nav
+t2
+s0
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphoneos/Nav.app/Nav_Prefix.pch.gch
+t2
+s0
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphoneos/Nav.app/PkgInfo
+t2
+s0
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphoneos/Nav.app/Presidents.plist
+t2
+s0
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphoneos/Nav.app/ResourceRules.plist
+t2
+s0
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphoneos/Nav.app/SecondLevelViewController.o
+t2
+s0
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphoneos/Nav.app/button_down.png
+t2
+s0
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphoneos/Nav.app/button_up.png
+t2
+s0
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphoneos/Nav.app/checkmarkControllerIcon.png
+t2
+s0
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphoneos/Nav.app/computers.plist
+t2
+s0
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphoneos/Nav.app/deleteMeIcon.png
+t2
+s0
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphoneos/Nav.app/detailEditIcon.png
+t2
+s0
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphoneos/Nav.app/disclosureButtonControllerIcon.png
+t2
+s0
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphoneos/Nav.app/moveMeIcon.png
+t2
+s0
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphoneos/Nav.app/rowControlsIcon.png
+t2
+s0
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphoneos/Nav.build/Objects-normal/armv6/CheckListController.o
+t2
+s0
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphoneos/Nav.build/Objects-normal/armv6/DeleteMeController.o
+t2
+s0
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphoneos/Nav.build/Objects-normal/armv6/DisclosureButtonController.o
+t2
+s0
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphoneos/Nav.build/Objects-normal/armv6/DisclosureDetailController.o
+t2
+s0
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphoneos/Nav.build/Objects-normal/armv6/FirstLevelViewController.o
+t2
+s0
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphoneos/Nav.build/Objects-normal/armv6/MoveMeController.o
+t2
+s0
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphoneos/Nav.build/Objects-normal/armv6/Nav.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphoneos/Nav.build/Objects-normal/armv6/NavAppDelegate.o
+t2
+s0
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphoneos/Nav.build/Objects-normal/armv6/President.o
+t2
+s0
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphoneos/Nav.build/Objects-normal/armv6/PresidentDetailController.o
+t2
+s0
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphoneos/Nav.build/Objects-normal/armv6/PresidentsViewController.o
+t2
+s0
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphoneos/Nav.build/Objects-normal/armv6/RowControlsController.o
+t2
+s0
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphoneos/Nav.build/Objects-normal/armv6/SecondLevelViewController.o
+t2
+s0
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Nav.build/Debug-iphoneos/Nav.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/computers.plist
+c000000004AD357900000000000002271
+t1255364496
+s8817
+
+N/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/main.m
+c000000004AD357900000000000000159
+t1255364496
+s345
+i<UIKit/UIKit.h>
+
+N/var/folders/C6/C65Tk4iAHkmWsJm5lMpc1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nav_Prefix-hkwmbjppfgzeyvhbpcigzxgevkfg/Nav_Prefix.pch.gch
+t2
+s0
+
+NNav-Info.plist
+c000000004AD35790000000000000038D
+t1255364496
+s909
+
+CCompileC build/Debug-iphoneos/Nav.app/SecondLevelViewController.o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/SecondLevelViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Nav.build/Debug-iphoneos/Nav.build/Objects-normal/armv6/CheckListController.o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/CheckListController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Nav.build/Debug-iphoneos/Nav.build/Objects-normal/armv6/DeleteMeController.o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/DeleteMeController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Nav.build/Debug-iphoneos/Nav.build/Objects-normal/armv6/DisclosureButtonController.o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/DisclosureButtonController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Nav.build/Debug-iphoneos/Nav.build/Objects-normal/armv6/DisclosureDetailController.o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/DisclosureDetailController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Nav.build/Debug-iphoneos/Nav.build/Objects-normal/armv6/FirstLevelViewController.o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/FirstLevelViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Nav.build/Debug-iphoneos/Nav.build/Objects-normal/armv6/MoveMeController.o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/MoveMeController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Nav.build/Debug-iphoneos/Nav.build/Objects-normal/armv6/NavAppDelegate.o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/NavAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Nav.build/Debug-iphoneos/Nav.build/Objects-normal/armv6/President.o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/President.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Nav.build/Debug-iphoneos/Nav.build/Objects-normal/armv6/PresidentDetailController.o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/PresidentDetailController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Nav.build/Debug-iphoneos/Nav.build/Objects-normal/armv6/PresidentsViewController.o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/PresidentsViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Nav.build/Debug-iphoneos/Nav.build/Objects-normal/armv6/RowControlsController.o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/RowControlsController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Nav.build/Debug-iphoneos/Nav.build/Objects-normal/armv6/SecondLevelViewController.o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/Classes/SecondLevelViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Nav.build/Debug-iphoneos/Nav.build/Objects-normal/armv6/main.o "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/DisclosureDetail.xib"
+r0
+
+CCompileXIB "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/MainWindow.xib"
+r0
+
+CCopyPNGFile "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphoneos/Nav.app/button_down.png" Images/button_down.png
+r0
+
+CCopyPNGFile "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphoneos/Nav.app/button_up.png" Images/button_up.png
+r0
+
+CCopyPNGFile "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphoneos/Nav.app/checkmarkControllerIcon.png" Images/checkmarkControllerIcon.png
+r0
+
+CCopyPNGFile "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphoneos/Nav.app/deleteMeIcon.png" Images/deleteMeIcon.png
+r0
+
+CCopyPNGFile "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphoneos/Nav.app/detailEditIcon.png" Images/detailEditIcon.png
+r0
+
+CCopyPNGFile "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphoneos/Nav.app/disclosureButtonControllerIcon.png" Images/disclosureButtonControllerIcon.png
+r0
+
+CCopyPNGFile "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphoneos/Nav.app/moveMeIcon.png" Images/moveMeIcon.png
+r0
+
+CCopyPNGFile "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphoneos/Nav.app/rowControlsIcon.png" Images/rowControlsIcon.png
+r0
+
+CCopyPlistFile "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphoneos/Nav.app/computers.plist" computers.plist
+r0
+
+CCpResource build/Debug-iphoneos/Nav.app/Nav_Prefix.pch.gch /var/folders/C6/C65Tk4iAHkmWsJm5lMpc1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nav_Prefix-hkwmbjppfgzeyvhbpcigzxgevkfg/Nav_Prefix.pch.gch
+r0
+
+CCpResource build/Debug-iphoneos/Nav.app/Presidents.plist Presidents.plist
+r0
+
+CCpResource build/Debug-iphoneos/Nav.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+r0
+
+CGenerateDSYMFile "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphoneos/Nav.app.dSYM" "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphoneos/Nav.app/Nav"
+r0
+
+CLd "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphoneos/Nav.app/Nav" normal armv6
+r0
+
+CProcessInfoPlistFile "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphoneos/Nav.app/Info.plist" Nav-Info.plist
+r0
+
+CProcessPCH /var/folders/C6/C65Tk4iAHkmWsJm5lMpc1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nav_Prefix-hkwmbjppfgzeyvhbpcigzxgevkfg/Nav_Prefix.pch.gch Nav_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/zolo/Desktop/Beginning iPhone Development Projects Oct 12 2009/09 Nav/build/Debug-iphoneos/Nav.app"
+r0
+
